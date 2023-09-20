@@ -1,0 +1,29 @@
+#content {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+#image {
+    width: 400px;
+    height: 400px;
+}
+
+#story {
+    font-size: 14px;
+    color: #333;
+    line-height: 1.5;
+}
+
+.red {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
